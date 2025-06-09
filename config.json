@@ -1,8 +1,8 @@
 {
-    "token": "YOUR TOKEN HERE",
-    "developerGuild": "GUID ID HERE",
+    "token": "MTM2OTI4MzY1NzgyNjU2NjE1NA.GyAalQ.Y_vOXlpqlB4T3jHp-iwphjBv6s-IQJ2fakGw-E",
+    "developerGuild": "1345285281875755049",
     "activityInterval": 5,
     "botMainColor": "0xff5454",
     "botErrorColor": "0xdb3535",
-    "database": "MONGO-DB LINK HERE"
+    "database": "mongodb+srv://sd359187:ca3RKvjJW9I9ljWE@cluster0.vsgojcj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 }
